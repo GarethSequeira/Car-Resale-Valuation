@@ -81,7 +81,7 @@ def main():
 
     col1,col2,col3,col4 = st.beta_columns(4)
     col1.markdown('<a href="https://enginebay.herokuapp.com/"><img align="left" alt="Engine Bay" width="45px" src="https://img.icons8.com/ios-filled/2x/4a90e2/car-sale.png" /></a> ', unsafe_allow_html=True)
-    col2.markdown('<a href="https://www.garethsequeira.com/"><img align="right" alt="Website" width="50px" src="https://img.icons8.com/material-sharp/2x/4a90e2/google-logo.png" /></a> ', unsafe_allow_html=True)
+    col2.markdown('<a href="https://www.garethsequeira.in/"><img align="right" alt="Website" width="50px" src="https://img.icons8.com/material-sharp/2x/4a90e2/google-logo.png" /></a> ', unsafe_allow_html=True)
     col3.markdown('<a href="https://github.com/garethsequeira/"><img align="left" alt="Github" width="50px" src="https://img.icons8.com/ios-filled/2x/4a90e2/github.png" /></a> ', unsafe_allow_html=True)
     col4.markdown('<a href="https://www.linkedin.com/in/garethsequeira/"><img align="right" alt="Linkedin" width="50px" src="https://img.icons8.com/ios-filled/2x/4a90e2/linkedin-circled.png" /></a> ', unsafe_allow_html=True)
 
